@@ -23,6 +23,7 @@ pub use keystore::{EcCurve, KeyAlgorithm, KeyStore};
 
 pub mod errors;
 pub mod keystore;
+pub mod tls_ext;
 
 /* --- types ------------------------------------------------------------------------------------ */
 
